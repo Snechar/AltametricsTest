@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\services\\auditloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\services\\auditloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\altametrics backend c# .net.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\altametrics backend c# .net.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\altametrics backend c# .net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\altametrics backend c# .net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\database\\initial_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\database\\initial_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\entities\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\entities\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\event\\createeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\event\\createeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\event\\eventrespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\event\\eventrespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\event\\eventupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\event\\eventupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\rsvp\\rsvprespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\rsvp\\rsvprespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\rsvp\\rsvpreqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\rsvp\\rsvpreqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\auth\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\auth\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\auth\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\auth\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\auth\\authrespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\auth\\authrespmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|c:\\users\\gabik\\source\\repos\\altametrics backend c# .net\\altametrics backend c# .net\\models\\dtos\\audit\\auditlogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E76D9E8-9F66-47CA-8DA9-BAD74FF70557}|Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj|solutionrelative:altametrics backend c# .net\\models\\dtos\\audit\\auditlogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Dockerfile",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Dockerfile",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Dockerfile",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T19:09:38.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Altametrics Backend C# .NET.http",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET.http",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Altametrics Backend C# .NET.http",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET.http",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Altametrics Backend C# .NET.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-26T12:39:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:10:12.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Altametrics Backend C# .NET.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\obj\\Debug\\net8.0\\Altametrics Backend C# .NET.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:10:02.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Altametrics Backend C# .NET.csproj",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Altametrics Backend C# .NET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T10:58:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Controllers\\EventController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:23:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Program.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Program.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Program.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:21:09.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:52:23.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\Event.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:48:05.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:27:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditLoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Services\\AuditLoggerService.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Services\\AuditLoggerService.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Services\\AuditLoggerService.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Services\\AuditLoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:18:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:53:22.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RSVPController.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\RSVPController.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Controllers\\RSVPController.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Controllers\\RSVPController.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Controllers\\RSVPController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:25:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Services\\ReminderService.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Services\\ReminderService.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Services\\ReminderService.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Services\\ReminderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:32:55.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\appsettings.json",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\appsettings.json",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T14:37:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\.env",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\.env",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\.env",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T11:30:01.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Database\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Database\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Database\\DBInitializer.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Database\\DBInitializer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:22:13.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "initial_schema.sql",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Database\\initial_schema.sql",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Database\\initial_schema.sql",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Database\\initial_schema.sql",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Database\\initial_schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-25T19:08:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:04:10.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventUpdateModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventUpdateModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventUpdateModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:14:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateEventModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\CreateEventModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\CreateEventModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\CreateEventModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\CreateEventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:51:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventRespModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventRespModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventRespModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventRespModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Event\\EventRespModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:52:26.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RSVP.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\RSVP.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\Entities\\RSVP.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\RSVP.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\Entities\\RSVP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:48:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RSVPRespModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPRespModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPRespModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPRespModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPRespModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:01:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RSVPReqModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPReqModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPReqModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPReqModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\RSVP\\RSVPReqModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:53:10.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:29:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\LoginModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:50:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\RegisterModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:50:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditLogModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Audit\\AuditLogModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Audit\\AuditLogModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Audit\\AuditLogModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Audit\\AuditLogModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:02:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthRespModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\AuthRespModel.cs",
+              "RelativeDocumentMoniker": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\AuthRespModel.cs",
+              "ToolTip": "C:\\Users\\gabik\\source\\repos\\Altametrics Backend C# .NET\\Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\AuthRespModel.cs",
+              "RelativeToolTip": "Altametrics Backend C# .NET\\Models\\DTOs\\Auth\\AuthRespModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:50:55.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
