@@ -2,7 +2,7 @@
 
 This project is a backend system built with ASP.NET Core (.NET 8), designed to manage event RSVPs, user authentication via JWT, and includes auditing and protection features such as rate limiting. The solution also supports robust integration testing using an in-memory database.
 
-#Important notes
+# Important notes
 
 -Due to an ongoing issue in Swagger UI (see https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3329), I was not able to add annotations to the API calls, as it causes cache problems.
 
