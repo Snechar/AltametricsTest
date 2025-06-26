@@ -103,7 +103,10 @@ Using the **Test Explorer** window does not work due to the testing platform aut
 ##  Features
 
 -  JWT-secured user and event management
--  RSVP creation, update, and deletion
+-  RSVP creation, update, and deletion - Anonymous
+-  Event creation, update, and deletion - Authorized
+-  Event viewing - Anonymous
+-  RSVP Json formatting per event - Authorized , can only be accessed by event creator
 -  Audit logging
 -  Rate limiting (optional)
 -  Environment-aware configuration
