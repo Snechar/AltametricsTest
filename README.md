@@ -5,7 +5,8 @@ This project is a backend system built with ASP.NET Core (.NET 8), designed to m
 #Important notes
 
 -Due to an ongoing issue in Swagger UI (see https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3329), I was not able to add annotations to the API calls, as it causes cache problems.
--Using the **Test Explorer** window does not work due to the testing platform automatically targeting net9, manually adjust or run using ```bash
+-Using the **Test Explorer** window does not work due to the testing platform automatically targeting net9, manually adjust or run using
+```bash
 dotnet test
 ```
 .
