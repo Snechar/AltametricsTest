@@ -108,6 +108,7 @@ Using the **Test Explorer** window does not work due to the testing platform aut
 -  Rate limiting (optional)
 -  Environment-aware configuration
 -  In-memory integration test setup
+-  Reminder Service that runs every 30 minutes
 
 ---
 
